@@ -42,18 +42,7 @@ class MainActivity : AppCompatActivity() {
 
         // Set the toolbar
         setSupportActionBar(activity_main_toolbar)
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
-        //hai dep trai
+
 
         // Setup Recyclerview's Layout
         navigation_rv.layoutManager = LinearLayoutManager(this)
